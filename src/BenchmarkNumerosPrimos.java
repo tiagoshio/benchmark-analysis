@@ -75,7 +75,7 @@ public class BenchmarkNumerosPrimos {
         long tempoExecucao = tempoFim - tempoInicio;
 
         System.out.printf(
-                "Threads: %2d | Tempo: %5d | Quantidade de números primos encontrados: %d%n",
+                "Threads: %2d | Tempo: %5d ms | Quantidade de números primos encontrados: %d%n",
                 quantidadeThreads, tempoExecucao, totalNumerosPrimos
         );
     }

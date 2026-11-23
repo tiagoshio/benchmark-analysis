@@ -72,31 +72,31 @@
 ## 6. Evidências
 
 ### 1ª execução
-![Evidência da 1ª execução](../benchmark-analysis/evidencias/e1.png)
+![Evidência da 1ª execução](evidencias/e1.png)
 
 ### 2ª execução
-![Evidência da 2ª execução](../benchmark-analysis/evidencias/e2.png)
+![Evidência da 2ª execução](evidencias/e2.png)
 
 ### 3ª execução
-![Evidência da 3ª execução](../benchmark-analysis/evidencias/e3.png)
+![Evidência da 3ª execução](evidencias/e3.png)
 
 ### 4ª execução
-![Evidência da 4ª execução](../benchmark-analysis/evidencias/e4.png)
+![Evidência da 4ª execução](evidencias/e4.png)
 
 ### 5ª execução
-![Evidência da 5ª execução](../benchmark-analysis/evidencias/e5.png)
+![Evidência da 5ª execução](evidencias/e5.png)
 
 ### 6ª execução
-![Evidência da 6ª execução](../benchmark-analysis/evidencias/e6.png)
+![Evidência da 6ª execução](evidencias/e6.png)
 
 ### 7ª execução
-![Evidência da 7ª execução](../benchmark-analysis/evidencias/e7.png)
+![Evidência da 7ª execução](evidencias/e7.png)
 
 ### 8ª execução
-![Evidência da 8ª execução](../benchmark-analysis/evidencias/e8.png)
+![Evidência da 8ª execução](evidencias/e8.png)
 
 ### 9ª execução
-![Evidência da 9ª execução](../benchmark-analysis/evidencias/e9.png)
+![Evidência da 9ª execução](evidencias/e9.png)
 
 ### 10ª execução
-![Evidência da 10ª execução](../benchmark-analysis/evidencias/e10.png)
+![Evidência da 10ª execução](evidencias/e10.png)
